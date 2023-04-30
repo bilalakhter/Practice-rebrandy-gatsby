@@ -1,0 +1,30 @@
+.singlepost{
+    background-color: #052544;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.singletitle{
+    margin-bottom: 30px;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 50px;
+}
+.singleimg{
+    margin-bottom: 5px;
+    border-radius: 5px;
+
+}
+.singlecontent{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 35px;
+}
